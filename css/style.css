@@ -55,4 +55,34 @@ a:hover {
   margin: 0 20px;
   font-size: 20px;
   list-style: none;
+  font-family: 'Bitter', serif;
+}
+
+.global-nav li a{
+  color: #ffffff;
+}
+
+.global-nav li a:hover{
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 3px;
+  text-decoration: none;
+}
+
+#wrap {
+  clear: both;
+}
+
+.content {
+  width: 960px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+footer small{
+  font-size: 12px;
 }
